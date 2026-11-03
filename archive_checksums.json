@@ -1,0 +1,47 @@
+[
+  {
+    "file": "Additional_file_5A1_Analysis_Code_and_Core_Part_1.zip",
+    "bytes": 3599091,
+    "sha256": "16f18ba1d87b84d506617589b587f16be2d6a63dee29c2598205e7d1d6e6fb4f"
+  },
+  {
+    "file": "Additional_file_5A2_Analysis_Code_and_Core_Part_2.zip",
+    "bytes": 4848803,
+    "sha256": "0d0aa2804ac05caf54d5c0b3c7a1b1875c92662c0f7b44d554653888f0d59aa7"
+  },
+  {
+    "file": "Additional_file_5A3_Analysis_Code_and_Core_Part_3.zip",
+    "bytes": 4324277,
+    "sha256": "e6524ac7118e65bd194cf3f03d0a9edee056453457b2489af7bc15f57f44d229"
+  },
+  {
+    "file": "Additional_file_5A4_Analysis_Code_and_Core_Part_4.zip",
+    "bytes": 2336838,
+    "sha256": "4a7fca9845fc4b5a20e917b72a2141fc719e961cf7a24e826d49d3abaecaf2fc"
+  },
+  {
+    "file": "Additional_file_5B1_Lung_Slice_Code_and_Inputs_Part_1.zip",
+    "bytes": 8697061,
+    "sha256": "e91e496e8388fa44a261b91c54d01d7a53c85cedff3c0c785150f23bfa67b6f2"
+  },
+  {
+    "file": "Additional_file_5B2_Lung_Slice_Code_and_Inputs_Part_2.zip",
+    "bytes": 8220859,
+    "sha256": "c301051e846c064d7f034fd23ef425010349b9879413aa48991b7c4eeb1c24b4"
+  },
+  {
+    "file": "Additional_file_5C1_ILD_Code_and_Inputs_Part_1.zip",
+    "bytes": 8158411,
+    "sha256": "f93c583baf2383b095c39d5940d39789b3c1254bfd42299c12ef9a251ac8643d"
+  },
+  {
+    "file": "Additional_file_5C2_ILD_Code_and_Inputs_Part_2.zip",
+    "bytes": 8703030,
+    "sha256": "364fdf9b4acc80ef6278a8769bbc1fac44c801274f464b90848534e055e0d9ee"
+  },
+  {
+    "file": "Additional_file_5C3_ILD_Code_and_Inputs_Part_3.zip",
+    "bytes": 987569,
+    "sha256": "d7f8daddb7c21d18a6d3c700c397cb52564a57e1094d821a06b823bca57e0083"
+  }
+]
